@@ -40,8 +40,10 @@ MySQL: Database for persistent storage of patient data.
 
 Java: The main programming language for developing this application.
 
-Copyright:
+🔹Copyright:
 
 https://github.com/tanisha-rani
 
 https://github.com/Hubrishabh
+
+https://github.com/PalakRana09
